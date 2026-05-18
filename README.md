@@ -1,5 +1,6 @@
 # Clinical Trial Data Lake Pipeline
 
+<<<<<<< HEAD
 An end-to-end data engineering pipeline simulating a **biopharmaceutical data lake** for clinical trial records.  
 Built with **Apache Airflow** for orchestration and **Apache Spark (PySpark)** for distributed data transformation.
 
