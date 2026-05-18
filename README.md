@@ -80,7 +80,7 @@ clinical-trial-data-lake/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/clinical-trial-data-lake.git
+git clone https://github.com/shubraj04/clinical-trial-data-lake.git
 cd clinical-trial-data-lake
 
 # 2. Install dependencies
@@ -138,16 +138,6 @@ trial_id    drug    patient_count   avg_outcome_score   adverse_events
 TRIAL_001   DrugA   65              46.3                22
 TRIAL_001   DrugB   50              41.0                12
 TRIAL_001   Placebo 62              49.3                14
-```
-
----
-
-## Week-by-Week Build Log
-
-- ✅ **Week 1** — Airflow DAG with 5-task pipeline + sample data generation
-- ✅ **Week 2** — PySpark transformation job with schema, cleaning, aggregation
-- 🔄 **Week 3** — AWS S3 integration + PostgreSQL serving layer *(in progress)*
-
 ---
 
 ## CV Bullet
