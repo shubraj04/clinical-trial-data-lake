@@ -139,7 +139,3 @@ TRIAL_001   DrugA   65              46.3                22
 TRIAL_001   DrugB   50              41.0                12
 TRIAL_001   Placebo 62              49.3                14
 ---
-
-## CV Bullet
-
-> *Built a clinical trial data lake pipeline using Airflow DAGs and PySpark to process 1M+ patient records, storing Parquet datasets in AWS S3.*
