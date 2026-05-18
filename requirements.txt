@@ -1,0 +1,7 @@
+apache-airflow==2.8.0
+pyspark==3.5.0
+pandas==2.1.0
+numpy==1.26.0
+boto3==1.34.0          # AWS S3 integration (Week 3)
+psycopg2-binary==2.9.9 # PostgreSQL (Week 3)
+pyarrow==14.0.1        # Parquet support
